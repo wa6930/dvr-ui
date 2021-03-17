@@ -26,12 +26,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+
   },
   //添加视频播放器
   data () {
